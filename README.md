@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi ! Welcome to my Github page ⚡
 
-<!--
-**ossm29/ossm29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: oussama.konate@universite-paris-saclay.fr
+- 🔭 CS student interested in cybersecurity
 
-Here are some ideas to get you started:
+<p><em>I'm studying at <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay </a>
+</br>I’m currently working on various <a href="https://github.com/ossm29?tab=repositories">projects</a>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=ossm29&include_all_commits=true&count_private=true&show_icons=true&hide=contribs,prs&border_color=000000)
+
+## 🧰 Languages and Tools:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ossm29&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
