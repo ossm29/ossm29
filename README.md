@@ -1,9 +1,9 @@
 ### Hi ! Welcome to my Github page ⚡
 
 - 📫 How to reach me: oussama.konate@universite-paris-saclay.fr
-- 🔭 CS student interested in cybersecurity
+- 🔭 Dev / CS student (cybersecurity)
 
-<p><em>I'm studying at <a href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay </a>
+<p><em>I'm studying at <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a>
 </br>I’m currently working on various <a href="https://github.com/ossm29?tab=repositories">projects</a>
 </em></p>
 
